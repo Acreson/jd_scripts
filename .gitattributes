@@ -1,1 +1,1 @@
-*.js linguist-language=[具体语言Java,Kotlin,Vue...]
+*.js linguist-language=java
